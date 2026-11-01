@@ -1,0 +1,23 @@
+# generated output
+out/
+.camera-state/
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---------------------------------------------------------------------------
+# Never commit media. This repository contains code only: no camera samples,
+# no test pictures, no captured metadata. Bring your own photo — preferably one
+# that is already on the camera you want to write to.
+# ---------------------------------------------------------------------------
+real-samples/
+test.jpg
+samples/
+*.jpg
+*.jpeg
+*.dng
+*.mp4
+*.lrv
